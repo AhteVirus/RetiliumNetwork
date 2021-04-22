@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Nunito';
+    src: url('https://retiliumnetwork.ahtevirus.tech/wp-content/plugins/happy-elementor-addons/assets/fonts/nunito/Nunito-Bold.woff2') format('woff2'),
+        url('https://retiliumnetwork.ahtevirus.tech/wp-content/plugins/happy-elementor-addons/assets/fonts/nunito/Nunito-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('https://retiliumnetwork.ahtevirus.tech/wp-content/plugins/happy-elementor-addons/assets/fonts/nunito/Nunito-Regular.woff2') format('woff2'),
+        url('https://retiliumnetwork.ahtevirus.tech/wp-content/plugins/happy-elementor-addons/assets/fonts/nunito/Nunito-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

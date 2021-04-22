@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait 'Yoast\WP\SEO\Conditionals\No_Conditionals' not found in <b>/storage/emulated/0/RTN/database/WP/wp-content/plugins/wordpress-seo/src/helpers/schema/replace-vars-helper.php</b> on line <b>15</b><br>

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait 'Google\Site_Kit_Dependencies\GuzzleHttp\Ring\Future\BaseFutureTrait' not found in <b>/storage/emulated/0/RTN/database/WP/wp-content/plugins/google-site-kit/third-party/guzzlehttp/ringphp/src/Future/MagicFutureTrait.php</b> on line <b>12</b><br>

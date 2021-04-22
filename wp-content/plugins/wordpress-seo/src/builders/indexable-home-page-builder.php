@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait 'Yoast\WP\SEO\Builders\Indexable_Social_Image_Trait' not found in <b>/storage/emulated/0/RTN/database/WP/wp-content/plugins/wordpress-seo/src/builders/indexable-home-page-builder.php</b> on line <b>14</b><br>

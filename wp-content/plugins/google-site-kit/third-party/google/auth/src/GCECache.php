@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait 'Google\Site_Kit_Dependencies\Google\Auth\CacheTrait' not found in <b>/storage/emulated/0/RTN/database/WP/wp-content/plugins/google-site-kit/third-party/google/auth/src/GCECache.php</b> on line <b>37</b><br>

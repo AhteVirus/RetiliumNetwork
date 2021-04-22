@@ -1,0 +1,2 @@
+<br>
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/storage/emulated/0/RTN/database/WP/wp-content/plugins/jetpack/modules/tiled-gallery/tiled-gallery/templates/square-layout.php</b> on line <b>2</b><br>

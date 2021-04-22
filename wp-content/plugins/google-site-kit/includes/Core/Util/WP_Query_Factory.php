@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait 'Google\Site_Kit\Core\Util\WP_Context_Switcher_Trait' not found in <b>/storage/emulated/0/RTN/database/WP/wp-content/plugins/google-site-kit/includes/Core/Util/WP_Query_Factory.php</b> on line <b>22</b><br>
